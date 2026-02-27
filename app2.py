@@ -1,2 +1,2 @@
 def show_homepage():
-    return "Welcome to our App guys"
+    return "Welcome to our App"
