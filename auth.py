@@ -1,2 +1,4 @@
 def login(username, password):
-    return username == "admin" and password == "1234"
+    if username == "admin" and password == "1234":
+        return "Login successful"
+    return "Login failed"
